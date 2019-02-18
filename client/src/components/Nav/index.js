@@ -5,7 +5,7 @@ function Index() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Link className="navbar-brand" to="/">
-          MERN Digital Library
+          Google Library
         </Link>
       <div className="container">
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
