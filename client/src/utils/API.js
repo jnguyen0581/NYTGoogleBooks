@@ -6,7 +6,7 @@ const PATH_BASE = 'https://www.googleapis.com/books/v1';
 const PATH_SEARCH = '/volumes';
 const PARAM_SEARCH = 'q=';
 const PARAM_HPP = 'maxResults=';
-const API_KEY = process.env.REACT_APP_API_KEY;
+const API_KEY = "AIzaSyCr07Lfd4kJVktAlUM2Lemi9kXWoSJtZr4";
 
 export default {
   getGoogleBooks: function (search) {
